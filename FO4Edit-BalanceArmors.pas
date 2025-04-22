@@ -3,7 +3,7 @@
   ------------------------------------------------------------------------
 
   Modders are usually all over the place when creating custom armors, some
-   go completely overpowered, making the armors basically a cheat, or
+  go completely overpowered, making the armors basically a cheat, or
   they create purely cosmetic things that do not have combat properties at all,
   while taking up an armor slot.
 
