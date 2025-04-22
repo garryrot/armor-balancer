@@ -7,11 +7,11 @@
   they create purely cosmetic things that do not have combat properties at all,
   while taking up an armor slot.
 
-  If you enjoy a balanced game, but also like nice-looking armors, this
-  script goes through all selected armors and normalizes weight/defensive stats
-  based on biped/body-part slot, giving armor-slots armore-like values and
-  non-armor slots no armor. Additionally, the weight is adapted to be almost
-  weightless for cosmetic armors, and resembling armors for armor slots.
+  If you enjoy a balanced game this script automatically adapts all 
+  selected armors according to the following rules:
+  
+  - Give items that take up armor-slots (Torso, L/R Hand/Leg) armor-like stats (weight and armor rating)
+  - Remove all armor stats from all remaining items and make them weightless
 
   How it works:
   - Select any amount of armors in FO4Edit
